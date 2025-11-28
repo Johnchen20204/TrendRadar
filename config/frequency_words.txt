@@ -2,67 +2,39 @@
 于东来
 
 大疆
-DJI
-@2
-
 宇树
-王兴兴
-@2
-
 京东
-刘强东
-@2
-
 字节
-bytedance
-张一鸣
-@2
 
+张一鸣
 特斯拉
 马斯克
-@2
-
-微软
-Microsoft
-@2
 
 英伟达
 NVIDIA
 黄仁勋
-@2
-
 谷歌
 google
 gemini
-@2
 
 chatgpt
 openai
 sora
-@2
-
 claude
 Anthropic
-@2
 
 人工智能
 ai
 !gai
+@3
 
 自动驾驶
 机器人
+芯片
+光刻机
+新质生产力
 
 中国
-政策
-
 美国
 日本
 韩国
-
-芯片
-光刻机
-
-科技
-新质生产力
-
-世界杯
